@@ -2,14 +2,13 @@
 
 #### I'm a Fullstack Developer, DevOps Specialist, and Embedded Developer 
 
-- 🔭 Currently working on FnB industry.
-- 🔭 Third party integrator, specialize on payment, and Point of sales.
-- 🌱 Currently exploring JAMStack.
-- 👯 Also working on mechatronics, and animatronics.
-- ⚡  Part-time artist and illustrator.
-- ⚡  Drawing and Illustrations is my past time.
+- 👨‍💻 Currently working on FnB industry.
+- 🖇️ Third party integrator, specialize on payment, and Point of sales.
+- 💡 Currently exploring JAMStack.
+- 🦾 Also working on mechatronics, and animatronics.
+- 🖋️ Part-time artist and illustrator.
+- 🎨 Drawing and Illustrations is my past time.
 
----
 ### Languages and Tools:
 
 ##### Front End
