@@ -1,4 +1,6 @@
 ### Hi there, I'm Ryan  👋
+
+I'm a Fullstack Developer, DevOps Specialist, and Embedded Developer 
 ---
 
 
