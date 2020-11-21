@@ -5,7 +5,6 @@
 
 ### Languages and Tools:
 
-<br/>
 
 #### - Front End
 
